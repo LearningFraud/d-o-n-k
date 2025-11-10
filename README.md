@@ -11,3 +11,4 @@ Welcome to the official GitHub Repository for the game "D O N K"
 
 ### Other Docs:
 - <a href="Untitled design (1).png">D O N K Banner</a>
+- <a href="https://github.com/LearningFraud/d-o-n-k.git">GitHub Repo</a>
