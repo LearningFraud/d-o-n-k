@@ -1,5 +1,13 @@
-![alt text](<Untitled design (1).png>)
+<image src="Untitled design (1).png">
 Welcome to the official GitHub Repository for the game "D O N K"
 
-Find out more at:
-> Overview.ipynb
+## Table of Contents
+
+### Pages:
+- <a href="README.md">README</a>
+- <a href="Overview.ipynb">Overview</a>
+- <a href="Project Journal.ipynb">Project Journal</a>
+- <a href="Testing.ipynb">Testing Journal</a>
+
+### Other Docs:
+- <a href="Untitled design (1).png">D O N K Banner</a>
